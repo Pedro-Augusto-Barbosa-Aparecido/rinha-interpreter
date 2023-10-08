@@ -20,3 +20,4 @@ class Kind(Enum):
     Term = "Term"
     Tuple = "Tuple"
     Var = "Var"
+    NoneType = "None"
